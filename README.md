@@ -5,6 +5,8 @@ Correct Exercise Posture Identification is an AI system that analyzes body movem
 
 
 
+
+
 **DEMO VIDEO BICEP CURLS:**
 
 
@@ -15,6 +17,10 @@ Make sure you are visible to camera and lightning must be enough to detect keypo
 this one is the most fastest and easiest solution for correct identification, other solution can also include arcitecture like conv2dlstm, or using separate cnn and then lstm, in this solution we are using mediapipe for our keypoint extraction and then using LSTM to train our sequence.
 
 NOTE: While running on real time on web application delay will be seen. 
+
+
+
+
 
 
 
@@ -30,7 +36,19 @@ given in the bicep code file.
 
 
 
+
+
+
+
 **GRAPHS:**
 ![image](https://github.com/user-attachments/assets/8e54d955-251c-474e-8d0b-6649d4ab5b35)
 ![image](https://github.com/user-attachments/assets/bd343d5e-4b75-4bfd-b419-4841ae6bb75f)
 ![image](https://github.com/user-attachments/assets/b4479d70-e20e-46c9-8f50-050943efe786)
+
+
+
+
+
+
+**NOTE:**
+This is the whole content provided for bicep curls, 4 other exercises are all being used in this project check my profile for that CEPIDL_2, all 4 exercises content is available there.
