@@ -1,6 +1,10 @@
 # CEPIDL
 Correct Exercise Posture Identification is an AI system that analyzes body movements in real time. Using MediaPipe Pose and an LSTM model, it classifies postures as correct, incorrect, or neutral. It includes a repetition counter and provides instant feedback. Designed for web and mobile, it integrates TensorFlow Lite for accuracy.
 
+
+
+
+
 **DEMO VIDEO BICEP CURLS:**
 
 
@@ -11,12 +15,20 @@ Make sure you are visible to camera and lightning must be enough to detect keypo
 this one is the most fastest and easiest solution for correct identification, other solution can also include arcitecture like conv2dlstm, or using separate cnn and then lstm, in this solution we are using mediapipe for our keypoint extraction and then using LSTM to train our sequence.
 
 NOTE: While running on real time on web application delay will be seen. 
+
+
+
+
 **WORKFLOW:**
 given in the bicep code file.
 1) dataset creation --> you can improve your dataset by adding more data and adjust body landmarks according to your exercise.
 2) Model training --> train your model.
 3) Real time running --> run on your python environment to test your model.
 4) running on web or mobile --> i have provided bicep code for web using fastapi and websocket, make sure to create two files in your front end one for html(client) and one for python(server).
+
+
+
+
 
 **GRAPHS:**
 ![image](https://github.com/user-attachments/assets/8e54d955-251c-474e-8d0b-6649d4ab5b35)
