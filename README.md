@@ -51,4 +51,4 @@ given in the bicep code file.
 
 # NOTE:
 
-This is the whole content provided for bicep curls, 4 other exercises are all being used in this project check my profile for that CEPIDL_2, all 4 exercises content is available there.
+This is the whole content provided for bicep curls, 4 other exercises are all being used in this project check my profile for that CEPIDL_2, all 3 exercises content is available there.
